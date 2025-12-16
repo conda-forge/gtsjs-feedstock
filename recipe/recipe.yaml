@@ -1,5 +1,5 @@
 context:
-  version: "6.0.2"
+  version: "7.0.0"
 
 package:
   name: gtsjs
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/gts/-/gts-${{ version }}.tgz
-  sha256: 37d1b37791fa596d570a52538f62611c7a4be5c53505f6b477f5555735fe3503
+  sha256: b3f1245787fe6286ddf65440736d65d59c1faffc4f949cd5306226945adbdc5b
 
 build:
   number: 0
